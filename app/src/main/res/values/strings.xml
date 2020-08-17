@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MAD</string>
+    <string name="header_home">Home</string>
+    <string name="title1">Test Food Product</string>
+    <string name="todo">todo</string>
+    <string name="product_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
 </resources>
